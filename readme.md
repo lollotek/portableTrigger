@@ -1,7 +1,9 @@
 Portable photo trigger
+----------------------------
+
 created 2011
 by Lorenzo Boasso
-----------------------------
+
 ENGLISH: 
 coming soon
 
